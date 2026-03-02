@@ -1,6 +1,6 @@
 # 9 klasės pamokų skaidrės
 
-📝 [Опрос головные боли у подростков ](https://forms.gle/karrAiWhuQrY27y8A)
+📝 [Опрос: головные боли у подростков ](https://forms.gle/karrAiWhuQrY27y8A)
 
 [Основы программирования](https://gamma.app/docs/9-Programavimo-pagrindai-w785mjybib6wlrv)
 
