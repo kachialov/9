@@ -7,3 +7,5 @@
 [Системы счисления](https://gamma.app/docs/9-Skaiciavimo-sistemos-01o5m9rlu2zy51n) 
 
 [23. Языки программирования высокого и низкого уровня](https://gamma.app/docs/9-23--ly0h20qp8m8m98d)
+
+[26. Выбор алгоритма: целые и вещественные числа](https://gamma.app/docs/09-26-RU-sveikieji-ir-realieji-skaiciai-tlt2erov53qlja0)
