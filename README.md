@@ -2,6 +2,8 @@
 
 ⬇️ [LR NŠA Python Windows 64-bit](https://drive.google.com/file/d/1zPKOfh5XZtRGQGHZvkflh9o_siy3mzmB/view?usp=drive_link)
 
+📝 [Apklausa dėl patyčių (1-2 klasės)](https://forms.gle/kSzX3kmr7B6bNawK8)
+
 [Основы программирования](https://gamma.app/docs/9-Programavimo-pagrindai-w785mjybib6wlrv)
 
 [Системы счисления](https://gamma.app/docs/9-Skaiciavimo-sistemos-01o5m9rlu2zy51n) 
