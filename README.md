@@ -1,9 +1,3 @@
-# Apklausa dėl patyčių
-
-📝 [1-2 klasės](https://forms.gle/kSzX3kmr7B6bNawK8)
-
-🎭 [5-8 klasės](https://forms.gle/XdEwNccpVTDhBP9R6)
-
 # 9 klasės pamokų skaidrės
 
 ⬇️ [LR NŠA Python Windows 64-bit](https://drive.google.com/file/d/1zPKOfh5XZtRGQGHZvkflh9o_siy3mzmB/view?usp=drive_link)
@@ -18,4 +12,4 @@
 
 [26. Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/09-26-RU-sveikieji-ir-realieji-skaiciai-tlt2erov53qlja0)
 
-👉 [27. Выбор алгоритмов: условные операторы (Python)](https://gamma.app/docs/9-27-Sakojimo-sakinys-1u0ye8pw1kar4n0)
+[27. Выбор алгоритмов: условные операторы (Python)](https://gamma.app/docs/9-27-Sakojimo-sakinys-1u0ye8pw1kar4n0)
