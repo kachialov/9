@@ -13,3 +13,5 @@
 [26. Выбор алгоритма: целые и действительные числа](https://gamma.app/docs/09-26-RU-sveikieji-ir-realieji-skaiciai-tlt2erov53qlja0)
 
 [27. Выбор алгоритмов: условные операторы (Python)](https://gamma.app/docs/9-27-Sakojimo-sakinys-1u0ye8pw1kar4n0)
+
+[28. Использование внешних данных в Python](https://gamma.app/docs/9-28-Isoriniu-duomenu-naudojimas-vu887kjgwtn6q8w)
