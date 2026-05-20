@@ -1,3 +1,5 @@
+👉 [apkausa](https://docs.google.com/forms/d/e/1FAIpQLSdbEfqlxSEUYfyi96gUxIMF9e2tdk7yXJWq60mDpIZbR9poMA/viewform?usp=sharing&ouid=114472471703750210296)
+
 # 9 klasės pamokų skaidrės
 
 ⬇️ [LR NŠA Python Windows 64-bit](https://drive.google.com/file/d/1zPKOfh5XZtRGQGHZvkflh9o_siy3mzmB/view?usp=drive_link)
