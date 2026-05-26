@@ -1,5 +1,3 @@
-👉 [apkausa](https://docs.google.com/forms/d/e/1FAIpQLSdbEfqlxSEUYfyi96gUxIMF9e2tdk7yXJWq60mDpIZbR9poMA/viewform?usp=sharing&ouid=114472471703750210296)
-
 # 9 klasės pamokų skaidrės
 
 ⬇️ [LR NŠA Python Windows 64-bit](https://drive.google.com/file/d/1zPKOfh5XZtRGQGHZvkflh9o_siy3mzmB/view?usp=drive_link)
@@ -17,3 +15,5 @@
 [27. Выбор алгоритмов: условные операторы (Python)](https://gamma.app/docs/9-27-Sakojimo-sakinys-1u0ye8pw1kar4n0)
 
 [28. Использование внешних данных в Python](https://gamma.app/docs/9-28-Isoriniu-duomenu-naudojimas-vu887kjgwtn6q8w)
+
+👉 [40. Электронные услуги](https://gamma.app/docs/9-40-Elektronines-paslaugos-4x1mfsejqw1dy9c)
